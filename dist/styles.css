@@ -1,0 +1,10 @@
+.div1 {
+    border-style: flex;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+
+body {
+    font-family: "Hind + Siliguri", serif;
+    font-size: 26px;
+}

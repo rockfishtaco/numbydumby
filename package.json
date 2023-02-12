@@ -1,0 +1,18 @@
+{
+  "name": "numbydumby",
+  "version": "1.0.0",
+  "description": "math project school",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "ndavis5",
+  "license": "ISC",
+  "homepage": "https://rockfishtaco.github.io/numbydumby",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
