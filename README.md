@@ -1,2 +1,4 @@
 # numbydumby
-a fun project to learn math concepts for helmet wearing teenagers
+a fun place to understand functional maths
+a bundle of fun content related to understanding maths
+
